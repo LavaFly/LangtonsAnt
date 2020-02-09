@@ -1,0 +1,2 @@
+# LangtonsAnt
+Project for school
